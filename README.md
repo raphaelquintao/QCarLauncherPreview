@@ -1,31 +1,20 @@
-# QCarlauncherPreview
+# QCarLauncherPreview 🚗
 
-Custom Android Car Launcher made from scratch.
-This project is a preview main made for my personal use, but if you want to test it, feel free to do it.
+QCarLauncher is a feature-packed car launcher, built from scratch for my own personal use (because why not go overboard for your own obsessions?). If you like big, ambitious projects that started as a "just for me" idea, you might enjoy this one too.
 
-[![Watch the video](https://img.youtube.com/vi/0j0OWKsQhbY/maxresdefault.jpg) ](https://youtu.be/0j0OWKsQhbY )
-
+![QCarLauncher Preview](https://github.com/user-attachments/assets/12f513d1-f4f1-4fda-855d-1c53664c9243)
 
 ## Features
-- Modern UI: A sleek and intuitive interface designed for easy navigation while driving.
+- Modern UI for easy navigation!
+- Partial integration with [this headunit](https://pt.aliexpress.com/item/1005005875430250.html) for AUDI
+- DeeLife TPMS MU7J-5 support (other versions might work, but who knows?)
 
-- Hardware Integrations:
-  - Partial integration with [this](https://pt.aliexpress.com/item/1005005875430250.html) Headunit for AUDI
-  - DeeLife TPMS MU7J-5 (i dont tested other versions, but should work).
+## Status
+- Still in development, and honestly, it might stay that way forever
+- Built for my own use, so expect all the permissions and a bit of chaos
+- No promises about the future, but hey, it's here now!
 
+## Download
+Ready to give it a spin? Grab the APK below:
 
-## IMPORTANT
-  - This is a preview version, and is still in development.
-  - Maybe it will be like that forever, or maybe not.
-  - Its maily made for my personal use, so i just give it all permissions.
-  - I dont thinkking aaboiuut it yet.
-  - Source is a mess, and have a lot o personal stuff. Not ready for share yet.
-  - I will try to clean it up in the future.
-
-## Binary Releases
-
-To use QCarLauncher on your Android-powered car system.
-
-**WIP**
-
-
+[Debug Preview APK](https://github.com/raphaelquintao/QCarLauncherPreview/releases/download/0.0.1dev/QCarLauncher-ninja.quintao.qcarlauncher-debug.apk)
