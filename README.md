@@ -4,6 +4,9 @@ QCarLauncher is a feature-packed car launcher, built from scratch for my own per
 
 [![QCarLauncher Preview](https://github.com/user-attachments/assets/12f513d1-f4f1-4fda-855d-1c53664c9243)](https://github.com/user-attachments/assets/dd3a6145-b0eb-4aad-8e3b-6a620ddbf390)
 
+https://github.com/user-attachments/assets/23df15b7-ca48-4936-b69c-39e75c4a410f
+
+
 
 
 
