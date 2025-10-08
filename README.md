@@ -1,6 +1,8 @@
 # QCarLauncherPreview
 
-QCarLauncher is a feature-packed car launcher, built from scratch for my own personal use (because why not go overboard for your own obsessions?). If you like big, ambitious projects that started as a "just for me" idea, you might enjoy this one too.
+QCarLauncher is a feature-packed car launcher, built from scratch for my own personal use (because why not go overboard for your own obsessions?)
+
+
 
 https://github.com/user-attachments/assets/dd3a6145-b0eb-4aad-8e3b-6a620ddbf390
 
