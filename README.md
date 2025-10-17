@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/23df15b7-ca48-4936-b69c-39e75c4a410f
 
 ## Features
 - Modern UI for easy navigation!
-- Partial integration with [this headunit](https://pt.aliexpress.com/item/1005005875430250.html) for AUDI
+- Integration with [this headunit](https://pt.aliexpress.com/item/1005005875430250.html) for AUDI
 - DeeLife TPMS MU7J-5 support (other versions might work, but who knows?)
 - Only Spotify and Google Maps integration for now (more apps might come later)
 
